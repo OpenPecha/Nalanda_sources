@@ -1,34 +1,24 @@
-01-Nagarjuna/0C1DBE3A-D3986         pedurma note issue(resolved)
-01-Nagarjuna/23EDB920-D4011         < issue
-01-Nagarjuna/25DD4388-N3581         tibetan number(no need to resolve)
-01-Nagarjuna/3292D904-D2278         tibetan number(no need to resolve)
-01-Nagarjuna/DBE4DDC6-D4124         tibetan number(no need to resolve)
-04-Bhavaviveka/E5D29E4E-D3856       pedurma note issue(resolved)
-05-Chandrakirti/478C46E6-D3862
-05-Chandrakirti/4A444884-D3860
-05-Chandrakirti/E20B224B-D2733
-07-Shantarakshita/9E73FD44-D3133
-08-Kamalashila/466BFB3B-D3986
-09-Asanga/710E0E27-D4035
-09-Asanga/AB9B0B63-D4039
-09-Asanga/BB343B66-D4036
-09-Asanga/CE95B26C-D4037
-09-Asanga/EDB13204-D4025
-10-Vasubandhu/44BDD7A4-D4015
-11-Dignaga/A18AA586-D4204 ?
-12-Dharmakirti/42882ABA-D4218
-12-Dharmakirti/46A72278-D4151
-12-Dharmakirti/4EA05114-D4211
-12-Dharmakirti/55780620-D2637
-13-Arya Vimuktisena/10942FB6-D3787
-14-Haribhadra/989ADB8B-D4274
-14-Haribhadra/AB5B0BBB-D3791
-15-Gunaprabha/05F86B58-D4117
-15-Gunaprabha/6E35B1CC-D4122
-15-Gunaprabha/7D12D8A9-D4044
-15-Gunaprabha/D453E48C-D4118
-16-Shakyaprabha/63DB221C-D4125
-16-Shakyaprabha/7385A853-D4124
-17-Atisha/79CFECCD-D3778
-17-Atisha/999D4D29-N3420
-17-Atisha/EB6760D2-D3959
+01-Nagarjuna/23EDB920
+01-Nagarjuna/25DD4388
+01-Nagarjuna/3292D904
+01-Nagarjuna/6AC5217A
+01-Nagarjuna/8B212CE1
+01-Nagarjuna/9BE6E883
+01-Nagarjuna/D834D800
+01-Nagarjuna/D9B99646
+01-Nagarjuna/DBE4DDC6
+01-Nagarjuna/EE90969B
+08-Kamalashila/49E5654D
+08-Kamalashila/E4BF16EE
+09-Asanga/EDB13204
+10-Vasubandhu/44BDD7A4
+10-Vasubandhu/E40567E5
+11-Dignaga/A18AA586
+12-Dharmakirti/4EA05114
+14-Haribhadra/8B1A9F85
+15-Gunaprabha/05F86B58
+15-Gunaprabha/7D12D8A9
+15-Gunaprabha/D453E48C
+16-Shakyaprabha/63DB221C
+16-Shakyaprabha/7385A853
+17-Atisha/44E9FEEF

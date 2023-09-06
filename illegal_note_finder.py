@@ -20,9 +20,8 @@ if __name__ == "__main__":
             for instance_path in instance_paths:
                 if  instance_path.stem in ['01chone', '02derge', '03narthang', '04peking']:
                     instance_text = instance_path.read_text()
-                    if philo_work_dir.name == '25DD4388':
-                        if has_illegal_note(instance_text):
-                            text_with_issues.append(f'{philo_dir.stem}/{philo_work_dir.name}')
+                    if has_illegal_note(instance_text):
+                        text_with_issues.append(f'{philo_dir.stem}/{philo_work_dir.name}')
     text_with_issues = list(set(text_with_issues))
     text_with_issues.sort()
     Path('./text_with_reconstruction_issues.txt').write_text('\n'.join(text_with_issues), encoding='utf-8')
