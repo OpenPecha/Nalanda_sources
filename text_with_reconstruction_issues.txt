@@ -3,10 +3,6 @@
 01-Nagarjuna/8B212CE1/</>/
 01-Nagarjuna/9BE6E883/</>/
 01-Nagarjuna/EE90969B/</>/
-06-Shantideva/35A6E1C7/</>/
 07-Shantarakshita/7285D6FE/»/
-08-Kamalashila/7285D6FE/»/
 09-Asanga/EDB13204/[0-9]/
-10-Vasubandhu/44BDD7A4/[0-9]/
-15-Gunaprabha/05F86B58/«/»/
-15-Gunaprabha/D453E48C/[0-9]/
+17-Atisha/44E9FEEF/</>/
