@@ -1,0 +1,5 @@
+Steps to use Common Spell
+ - U need to find multiple versions of the particular text in .txt format.
+ - after that it is advisable to to choose one examplar version as their default version so that whenever there is tie breaker, we will choose the default version.
+ - if we don't choose a default version, the pkg will choose the first version after sorting the path of versions.
+ - as of now we hv a repo template with github action which will run the script and return u the common spell.
